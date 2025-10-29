@@ -7,7 +7,7 @@ It helps traders and institutions understand market stability and liquidity shif
 
 ---
 
-## 🚀 Features
+##  Features
 - Data preprocessing and cleaning  
 - Feature engineering (price MA, volatility, liquidity ratios)  
 - Predictive model using RandomForestRegressor  
@@ -16,7 +16,7 @@ It helps traders and institutions understand market stability and liquidity shif
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas**, **NumPy**
 - **Scikit-learn**
@@ -25,7 +25,7 @@ It helps traders and institutions understand market stability and liquidity shif
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-liquidity-forecast.git
