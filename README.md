@@ -16,6 +16,15 @@ It helps traders and institutions understand market stability and liquidity shif
 
 ---
 
+## Requirements
+- **pandas**
+- **numpy**
+- **scikit-learn**
+- **matplotlib**
+- **seaborn**
+- **joblib**
+- **streamlit**
+
 ##  Tech Stack
 - **Python**
 - **Pandas**, **NumPy**
@@ -33,3 +42,9 @@ cd crypto-liquidity-forecast
 python3 -m venv venv
 source venv/bin/activate  # (Windows: venv\Scripts\activate)
 pip install -r requirements.txt
+
+
+
+
+
+
