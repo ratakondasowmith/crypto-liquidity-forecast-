@@ -1,0 +1,19 @@
+crypto-liquidity-forecast/
+│
+├── data/
+│   └── coin_gecko_2022-03-16.csv        # your dataset
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   ├── eda_analysis.py
+│   └── main.py
+│
+├── app/
+│   └── app.py                           # Streamlit UI
+│
+├── requirements.txt
+├── README.md
+└── LICENSE (optional)
